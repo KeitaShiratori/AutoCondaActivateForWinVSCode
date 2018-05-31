@@ -6,12 +6,12 @@ Overview
 Automatically `conda activate env` when VSCode integration terminal is started.
 
 ## Environment
-For Windows
-Anaconda3
-VSCode
+- For Windows
+- Anaconda3
+- VSCode
 
 ## Usage
-1. `git clone ★★`
+1. `git clone git@github.com:KeitaShiratori/AutoCondaActivateForWinVSCode.git`
 2. Open VSCode's User Setting json. Press `Ctrl + ,`
 3. Add the following content
 ```
@@ -29,7 +29,7 @@ VSCode
 
 ## Licence
 
-[MIT](https://github.com/KeitaShiratori)
+[MIT](https://github.com/KeitaShiratori/AutoCondaActivateForWinVSCode/blob/master/LICENSE)
 
 ## Author
 
